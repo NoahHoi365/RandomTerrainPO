@@ -21,16 +21,16 @@ Ik heb Unity Engine gebruikt omdat ik daarmee tot nu het meeste ervaring heb. En
 
 WEEK I:
 
-Maandag: briefing
-dinsdag: ziek thuis, begin gemaakt aan het project
-woensdag: ziek, onderzoek gedaan Perlin Noise
-donderdag: niks
-vrijdag: project afgemaakt. heeft nog wat foutjes
+Maandag: briefing <br/>
+dinsdag: ziek thuis, begin gemaakt aan het project <br/>
+woensdag: ziek, onderzoek gedaan Perlin Noise <br/>
+donderdag: niks <br/>
+vrijdag: project afgemaakt. heeft nog wat foutjes <br/>
 
 WEEK II:
 
-Maandag: andere algoritmes opzoeken
-dinsdag: boss feature
+Maandag: andere algoritmes opzoeken <br/>
+dinsdag: boss feature <br/>
 woensdag: inleverdag
 
 
