@@ -14,18 +14,28 @@ Ik heb Unity Engine gebruikt omdat ik daarmee tot nu het meeste ervaring heb. En
 
 ## Leerdoelen 
 
+- Leren omgaan met generating
+- Leren omgaan met algoritmes van anderen inplementeren
 
 ## Planning 
-Je hebt grofweg 2 weken, hoe deel je deze twee weken in. Wat plan je wanneer om precies te doen?
 
-| | maandag | dinsdag | woensdag | donderdag | vrijdag |
-| --- | --- | --- | --- | --- | --- |
-|week 1 |
-|week 2 |
+WEEK I:
+
+Maandag: briefing
+dinsdag: ziek thuis, begin gemaakt aan het project
+woensdag: ziek, onderzoek gedaan Perlin Noise
+donderdag: niks
+vrijdag: project afgemaakt. heeft nog wat foutjes
+
+WEEK II:
+
+Maandag: andere algoritmes opzoeken
+dinsdag: boss feature
+woensdag: inleverdag
+
 
 ## Bronnen
-Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
 
-- [The Guide To Game Design](link)
-- [Alleatoric Algorithms](link)
-- [Flood-Fill Wikipedia](link)
+- https://docs.unity3d.com/ScriptReference/Mathf.PerlinNoise.html (Perlin Noise onderzoek)
+- https://www.youtube.com/watch?v=D4EOgZyNk-k (Random generation onderzoek)
+- https://www.youtube.com/watch?v=qAf9axsyijY (Hier lijkt het project erg op)
