@@ -1,5 +1,4 @@
 # Random Dungeon Generator
-https://drive.google.com/drive/folders/1y8l0Zr4E8b6gYJui_pSzQaoWr-gEr6JN?usp=sharing
 
 Ik heb een random dungeon simulator gemaakt die in een van de kamers een boss genereert. 
 
@@ -10,6 +9,7 @@ Ik heb een random dungeon simulator gemaakt die in een van de kamers een boss ge
 - hij maakt van alle blokjes 1 grote dungeon
 
 ## Software Anaylse 
+
 Ik heb Unity Engine gebruikt omdat ik daarmee tot nu het meeste ervaring heb. En ik wil kijken hoe het gaat als ik het algoritme van andere mensen ga inplementeren, en bij unity is daar het meeste van te vinden.
 
 ## Leerdoelen 
