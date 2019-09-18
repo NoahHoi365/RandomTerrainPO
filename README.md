@@ -38,4 +38,3 @@ woensdag: inleverdag
 
 - https://docs.unity3d.com/ScriptReference/Mathf.PerlinNoise.html (Perlin Noise onderzoek)
 - https://www.youtube.com/watch?v=D4EOgZyNk-k (Random generation onderzoek)
-- https://www.youtube.com/watch?v=qAf9axsyijY (Hier lijkt het project erg op)
